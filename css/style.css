@@ -74,3 +74,21 @@ section{
         display: block;
     }
 }
+#add-new{
+    
+    padding: 10px 15px;
+    margin-bottom: 100px;
+    cursor: pointer;
+    
+}
+.add-button{
+    margin-left: 240px;
+}
+.styel-p{
+    color: red;
+    font-size: 15px;
+    font-weight: 400;
+    display: none;
+    margin-top: 15px;
+text-align: center;
+}
